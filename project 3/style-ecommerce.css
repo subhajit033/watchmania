@@ -1,0 +1,285 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e8eaf6;
+}
+
+/* header {
+    background-color: #e980fc92;
+    height: 60px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 528px;
+    height: 52px;
+    margin-left: 952px;
+}
+
+header nav ul li {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+} */
+
+#search-pdt {
+    border-radius: 33px;
+    padding-left: 16px;
+    border-style: revert;
+    height: 26px;
+}
+
+.main-parent {
+    width: 1015px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: auto;
+    margin-top: 52px;
+    font-family: 'Roboto', sans-serif;
+    border-style: inset;
+    background-color: white;
+
+
+}
+
+.parent1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #ffffe5;
+
+    height: 429px;
+    width: 850px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+
+.shopping-img img {
+    width: 430px;
+}
+
+.company-name p {
+    font-size: 49px;
+    font-weight: bold;
+}
+
+.btn {
+    border-radius: 0;
+    height: 39px;
+    width: 100px;
+    background-color: crimson;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.hoddie-model img {
+    width: 322px;
+    margin-bottom: 101px;
+}
+
+.name-hood p {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.parent2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    height: 434px;
+    background-color: #c0cfff;
+    width: 900px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.demo-hoddie {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 425px;
+
+}
+
+.hoodie1 img {
+    width: 196px;
+}
+
+.hoodie1 {
+    text-align: center;
+    background-color: #e2f1f8;
+    height: 282px;
+    width: 235px;
+    margin-top: 1px;
+    padding-top: 16px;
+    border-style: ridge;
+}
+
+.hoodie-price {
+    width: 196px;
+    height: 32px;
+    border-radius: 0;
+    background-color: crimson;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.parent-tshirt {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #cfd8dc;
+    width: 850px;
+    margin: auto;
+    height: 374px;
+    border-style: dotted;
+}
+
+/* .t-shirt-model {
+    background-color: #cfd8dc;
+    height: 298px;
+} */
+
+.t-shirt-model img {
+    width: 442px;
+}
+
+.name-tshirt p {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.demo-shirt {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 425px;
+}
+
+#tshirt2 {
+    width: 150px;
+}
+
+#tshirt3 {
+    width: 150px;
+}
+
+span {
+    margin-left: 20px;
+}
+
+.about-us {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.about-us-img img {
+    width: 350px;
+}
+
+.about-us-text p {
+    width: 450px;
+    margin-bottom: 15px;
+}
+
+.about-us-text h2 {
+    font-size: 44px;
+}
+
+.contact-us {
+    width: 750px;
+    /* border: 1px solid black; */
+    height: 244px;
+    text-align: initial;
+    padding: 61px;
+    margin: auto;
+    position: relative;
+    /* background-color: #efebe9; */
+    border-style: outset;
+    margin-bottom: 32px;
+    margin-top: 35px;
+
+
+}
+
+#btn-f-inf {
+    width: 290px;
+}
+
+.identity {
+    width: 232px;
+    height: 23px;
+}
+
+.address {
+    display: flex;
+    width: 216px;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+#message {
+    width: 290px;
+    height: 72px;
+}
+
+.add-img img {
+    width: 32px;
+}
+
+.add-img {
+    margin-left: 50px;
+}
+
+.info-parent {
+    width: 308px;
+    border: 2px solid white;
+    position: absolute;
+    right: 0;
+    top: 85px;
+    height: 163px;
+    padding: 30px;
+    background-color: crimson;
+    color: white;
+
+
+}
+
+.icon1 img {
+    width: 26px;
+}
+
+.icons {
+    display: flex;
+    width: 186px;
+    justify-content: space-evenly;
+    height: 98px;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 67px;
+}
+
+footer {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d1ff86;
+}
+
+footer p {
+    font-size: 20px;
+    font-weight: bold;
+}
